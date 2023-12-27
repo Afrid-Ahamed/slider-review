@@ -41,7 +41,7 @@ backBtn.addEventListener("click", (evt) => {
   containerDiv.innerHTML += render(results[index]);
 });
 
-// When surprise button is clicked, need to show the next profile in the array.
+// When surprise button is clicked, need to show the random profile in the array.
 supriseMeBtn.addEventListener("click", (evt) => {
   index = Math.floor(Math.random() * (results.length - 1 - 0)) + 0;
   containerDiv.innerHTML = "";
