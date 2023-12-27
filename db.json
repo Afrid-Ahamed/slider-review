@@ -1,0 +1,110 @@
+{
+  "results": [
+    {
+      "gender": "female",
+      "name": {
+        "title": "Mrs",
+        "first": "Sofie",
+        "last": "Hansen"
+      },
+      "designation": "Web developer",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laboriosam praesentium eaque laudantium ab. Quaerat, excepturi ab cum velit dolor laudantium.",
+      "id": {
+        "name": "CPR",
+        "value": "010652-4371"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/53.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/53.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/53.jpg"
+      },
+      "nat": "DK"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "Mrs",
+        "first": "Sofie",
+        "last": "Yusuf"
+      },
+      "designation": "Back-end developer",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laboriosam praesentium eaque laudantium ab. Quaerat, excepturi ab cum velit dolor laudantium.",
+      "id": {
+        "name": "FN",
+        "value": "13078120252"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/33.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/33.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/33.jpg"
+      },
+      "nat": "NO"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "Miss",
+        "first": "Julie",
+        "last": "Robinson"
+      },
+      "designation": "Test Engineer",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laboriosam praesentium eaque laudantium ab. Quaerat, excepturi ab cum velit dolor laudantium.",
+      "id": {
+        "name": "PPS",
+        "value": "9291966T"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/72.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/72.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/72.jpg"
+      },
+      "nat": "IE"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Jackson",
+        "last": "Freeman"
+      },
+      "designation": "Test Engineer",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laboriosam praesentium eaque laudantium ab. Quaerat, excepturi ab cum velit dolor laudantium.",
+      "id": {
+        "name": "NINO",
+        "value": "BM 85 86 61 F"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/90.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/90.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/90.jpg"
+      },
+      "nat": "GB"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Mathew",
+        "last": "Adams"
+      },
+      "designation": "Database admin",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laboriosam praesentium eaque laudantium ab. Quaerat, excepturi ab cum velit dolor laudantium.",
+      "id": {
+        "name": "TFN",
+        "value": "760587392"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/63.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/63.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/63.jpg"
+      },
+      "nat": "AU"
+    }
+  ],
+  "info": {
+    "seed": "cc7f89e69162132f",
+    "results": 5,
+    "page": 1,
+    "version": "1.4"
+  }
+}
